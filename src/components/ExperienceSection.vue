@@ -99,7 +99,7 @@ export default {
       experiences: [
         {
           period: '2023 - Present',
-          title: 'Engineering Manager',
+          title: 'Technical Manager',
           company: 'rakuten group',
           location: 'tokyo, japan',
           description:

@@ -10,17 +10,13 @@
           <div class="col-sm-6">
             <div class="single-about-txt">
               <h3>
-                I am an experienced software engineer with a talent for communicating complex
-                technical concepts and delivering high-quality solutions. I excel in conveying
-                intricate technical concepts, ensuring high-quality solutions with my analytical
-                abilities and attention to detail.
+                I’m passionate about building reliable software by bringing out the best in teams. Clear communication,
+                practical problem solving, and a commitment to quality guide my work.
               </h3>
               <p>
-                I have over 14 years of experience in the IT industry. I started as a backend
-                programmer and advanced to an engineering manager. Through my career, I have worked
-                with various programming languages and have a solid understanding of enterprise
-                systems. I have also developed skills in team building, communication, and
-                collaboration in a multicultural and multilingual environment.
+                Over 16 years in the IT industry have taken me from backend programming to leading development efforts
+                across enterprise projects. Along the way, I’ve built expertise in multiple technologies and, just as
+                importantly, in fostering collaboration and growth within diverse, multicultural teams.
               </p>
               <div class="row">
                 <div class="col-sm-4">

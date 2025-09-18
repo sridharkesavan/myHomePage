@@ -57,7 +57,7 @@
               <div class="contact-adress">
                 <div class="contact-add-head">
                   <h3>sridhar kesavan</h3>
-                  <p>engineering manager</p>
+                  <p>technical manager</p>
                 </div>
                 <div class="contact-add-info">
                   <div class="single-contact-add-info">

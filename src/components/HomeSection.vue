@@ -7,7 +7,7 @@
           <div class="col-md-12 text-center">
             <div class="header-text">
               <h2>hi <span>,</span> i am <br> sridhar <br> kesavan <span>.</span> </h2>
-              <p>Engineering Manager</p>
+              <p>Building Reliable Software with Great People</p>
               <a href="assets/download/browney.txt" download>download resume</a>
             </div>
           </div>
